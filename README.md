@@ -1,3 +1,4 @@
+LOCAL
 # merge-and-conflicts
 
 Juste en réponse au challenge !
